@@ -1,0 +1,5 @@
+﻿/idPhong/INT/True
+/tenPhong/VARCHAR/False
+/idLau/INT/False
+/isActive/BIT/False
+/idLoaiPhong/INT/False

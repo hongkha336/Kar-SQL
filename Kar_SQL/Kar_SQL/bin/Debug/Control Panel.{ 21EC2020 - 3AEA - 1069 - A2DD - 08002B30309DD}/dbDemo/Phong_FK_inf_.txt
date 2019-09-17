@@ -1,0 +1,2 @@
+﻿/idLau/Lau/idLau
+/idLoaiPhong/LoaiPhong/idLoaiPhong

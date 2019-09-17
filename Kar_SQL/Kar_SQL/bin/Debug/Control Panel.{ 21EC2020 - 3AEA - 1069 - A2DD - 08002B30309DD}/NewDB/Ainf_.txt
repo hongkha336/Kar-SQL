@@ -1,0 +1,4 @@
+﻿/A/VARCHAR/True
+/B/INT/False
+/D/VARCHAR/False
+/F/VARCHAR/False

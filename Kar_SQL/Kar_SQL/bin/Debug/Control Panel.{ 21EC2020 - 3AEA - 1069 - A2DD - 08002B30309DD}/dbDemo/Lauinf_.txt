@@ -1,0 +1,2 @@
+﻿/idLau/INT/True
+/tenLau/VARCHAR/False

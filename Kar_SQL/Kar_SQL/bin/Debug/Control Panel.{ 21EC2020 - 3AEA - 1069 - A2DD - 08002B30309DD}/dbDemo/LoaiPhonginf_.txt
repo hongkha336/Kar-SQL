@@ -1,0 +1,2 @@
+﻿/idLoaiPhong/INT/True
+/TenLoai/VARCHAR/False
